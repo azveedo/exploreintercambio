@@ -1,7 +1,7 @@
 
 # ✦ EXPLORE
 
-#🚀 Deploy da aplicação
+# 🚀 Deploy da aplicação
 
    https://exploreintercambio.com 
 
