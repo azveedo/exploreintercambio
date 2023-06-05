@@ -1,0 +1,28 @@
+{
+  "name": "explore",
+  "version": "1.0.0",
+  "description": "final project repository with php (separate)",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "build": "rimraf public/dist && parcel build ./public/index.js --dist-dir public/dist",
+    "start": "rimraf public/dist && parcel ./public/index.js --dist-dir public/dist"
+  },
+  "author": "Louam Azevedo",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.3.0-alpha3",
+    "jquery": "^3.6.4",
+    "owl.carousel": "^2.3.4",
+    "postcss": "^8.4.23",
+    "rellax": "^1.12.1",
+    "swiper": "^9.2.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.3",
+    "rimraf": "^5.0.1"
+  }
+}

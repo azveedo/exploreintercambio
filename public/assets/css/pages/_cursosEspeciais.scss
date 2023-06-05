@@ -1,0 +1,16 @@
+@import '../sections/shared';
+@import '../sections/carousel';
+@import '../sections/cardsPacks';
+@import '../sections/faqs';
+@import '../sections/contact-form';
+
+
+.text {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: url(../images/cursosEspeciais.png) no-repeat 50% 50%;
+  background-size: cover;
+  mix-blend-mode: overlay;
+  z-index: 10;
+}
