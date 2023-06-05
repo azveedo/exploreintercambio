@@ -1,6 +1,10 @@
 
 # ✦ EXPLORE
 
+#🚀 Deploy da aplicação
+
+   https://exploreintercambio.com 
+
 # 💻Sobre o projeto
     O projeto Explore foi criado com o objetivo de auxiliar pessoas interessadas em fazer intercâmbio, fornecendo um site com pacotes de qualidade. O projeto visa simplificar o processo de busca e seleção de programas de intercâmbio, oferecendo opções atrativas e adequadas às necessidades individuais.
 
