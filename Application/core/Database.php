@@ -5,11 +5,11 @@ namespace Application\core;
 class Database
 {
     // configuração do banco de dados
-    private $DB_NAME = "explo991_explore";
-    private $DB_USER = "explo991_expl";
-    private $DB_PASSWORD = "8eFcdd243$#GGfnU0";
-    private $DB_HOST = "localhost";
-    private $DB_PORT = 3306;
+    private $DB_NAME = "";
+    private $DB_USER = "";
+    private $DB_PASSWORD = "";
+    private $DB_HOST = "";
+    private $DB_PORT = 0;
 
     // armazena a conexão
     private $connection;
