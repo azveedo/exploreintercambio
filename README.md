@@ -1,6 +1,10 @@
 
 # ✦ EXPLORE
 
+# 🚀 Deploy da aplicação
+
+   https://exploreintercambio.com 
+
 # 💻Sobre o projeto
     O projeto Explore foi criado com o objetivo de auxiliar pessoas interessadas em fazer intercâmbio, fornecendo um site com pacotes de qualidade. O projeto visa simplificar o processo de busca e seleção de programas de intercâmbio, oferecendo opções atrativas e adequadas às necessidades individuais.
 
@@ -18,7 +22,7 @@
     Perfis de Usuários: Após se cadastrar no site, os usuários têm acesso a um perfil pessoal, onde podem visualizar o histórico de suas compras de pacotes de intercâmbio e gerenciar suas informações pessoais.
 
 
-# 🚀Como executar o projeto 
+# 🛠️ Como executar o projeto 
 
     Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
 
