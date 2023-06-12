@@ -1,5 +1,10 @@
-export function mostraSenha() {
-    var x = document.getElementById("senha");
-    if (x.type === "password") x.type = "text";
-    else x.type = "password";
+export function mostraSenha(){
+        let temp = document.getElementById("senha");
+             
+        if (temp.type === "password") {
+            temp.type = "text";
+        }
+        else {
+            temp.type = "password";
+        }
 }

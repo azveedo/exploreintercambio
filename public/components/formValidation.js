@@ -1,5 +1,5 @@
 export function formValidation(){
-    const formRegister = document.getElementById('formRegister');
+const formRegister = document.getElementById('formRegister');
 const username = document.getElementById('usuario');
 const email = document.getElementById('email');
 const password = document.getElementById('senha');

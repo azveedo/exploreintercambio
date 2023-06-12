@@ -7,6 +7,8 @@ import {
   createCarousel,
   mostraSenha,
   formValidation,
+  formQuestionValidation,
+  formValidationLogin,
 } from "./components";
 import { selectors } from "./config/selectors";
 
@@ -17,6 +19,8 @@ function runApp() {
   createCarousel();
   mostraSenha();
   formValidation();
+  formQuestionValidation();
+  formValidationLogin();
 }
 
 document.addEventListener("DOMContentLoaded", runApp);
