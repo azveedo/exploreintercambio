@@ -9,7 +9,7 @@
           <div class="user-form-login">
             <div class="form-content">
               <h1>Usuário</h1>
-              <form action="cadastro/criar" method="post">
+              <form action="cadastro/criar" id="formRegister" method="post">
                 <div class="input-box">
                   <label>Email *</label>
                   <input type="text" name="email" id="email" required>

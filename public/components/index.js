@@ -7,3 +7,4 @@ export * from "./collapseFaq";
 export * from "./carousel";
 export * from "./smooth-scroll";
 export * from "./mostraSenha";
+export * from "./formValidation";

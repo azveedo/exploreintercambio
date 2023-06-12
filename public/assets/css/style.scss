@@ -1184,6 +1184,34 @@ body {
       transform: scaleX(1);
     }
 
+    .input-box input:focus {
+    outline: 0;
+}
+
+.input-box.success input {
+    border-color: #09c372;
+}
+
+.input-box.error input {
+    border-color: #ff3860;
+}
+
+.input-box .error {
+    color: #ff3860;
+    font-size: 9px;
+    height: 13px;
+}
+
+.input-box-50 .error {
+    color: #ff3860;
+    font-size: 9px;
+    height: 13px;
+}
+
+.input-box-50.success input {
+    border-color: #09c372;
+}
+
     @media (max-width: 845px) {
       .input-checkbox {
         font-size: 12px;

@@ -6,6 +6,7 @@ import {
   collapseFaq,
   createCarousel,
   mostraSenha,
+  formValidation,
 } from "./components";
 import { selectors } from "./config/selectors";
 
@@ -15,6 +16,7 @@ function runApp() {
   collapseFaq();
   createCarousel();
   mostraSenha();
+  formValidation();
 }
 
 document.addEventListener("DOMContentLoaded", runApp);
